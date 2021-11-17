@@ -1,0 +1,6 @@
+SimpleDelete.class
+SimplePut.class
+SimpleScan.class
+SimpleGet.class
+DeleteTable.class
+CreateTable.class
